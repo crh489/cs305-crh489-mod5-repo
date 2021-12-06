@@ -1,5 +1,5 @@
 # cs305-crh489-mod5-repo
-Repository for NAU course CS 305, for assignment module 5. Created by student user crh489.
+Repository for NAU course CS305, for assignment module 5. Created by student user crh489.
 
 
 <h1>CS 249 Final Exam Study List</h1>
