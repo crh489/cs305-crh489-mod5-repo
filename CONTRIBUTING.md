@@ -12,8 +12,6 @@
 
 <h3>Current contributors {USER, FIRSTNAME, LASTNAME}</h3>
 <ul>
-  <li>
-    crh489, Charles, Herman
-    bbe24, Bradley, Essegian
-  </li>
+    <li>crh489, Charles, Herman</li>
+    <li>bbe24, Bradley, Essegian</li>
 </ul>
