@@ -9,3 +9,10 @@
   <li>Archive project details from semester before BbLearn access is lost</li>
   <li>Provide references for future and current CS 249 students to better understand concepts of Data Structures</li>
 </ul>
+
+<h3>Current contributors {USER, FIRSTNAME, LASTNAME}</h3>
+<ul>
+  <li>
+    crh489, Charles, Herman
+  </li>
+</ul>
