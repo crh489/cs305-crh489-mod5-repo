@@ -1,5 +1,5 @@
 # cs305-crh489-mod5-repo
-Repository for NAU course CS 305, for assignment module 5. Created by student user crh489.
+Repository for NAU course CS305, for assignment module 5. Created by student user crh489.
 
 
 <h1>CS 249 Final Exam Study List</h1>
@@ -89,3 +89,5 @@ Be able to trace a BFS or DFS through a given graph
   <br>public StudentClassNode removeItem( int studentID )
   <br>public void showHashTableStatus()
 </p>
+<h3>Group Project for CS386</h3>
+<br>Mobile application for sharing recipies</br>
